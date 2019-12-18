@@ -1,0 +1,31 @@
+<div class="container">
+	<img style="border-radius: 35px;width: 100px;-webkit-user-select: none;margin: auto;cursor: zoom-in;height: 100px;" src="https://avatars3.githubusercontent.com/u/58986858?s=400&u=398806100e87dec887325f5ba5da8cf32ac9560c&v=4" width="100" height="100">
+	<h1>{{ site.texture.title }}</h1>
+	<h2>{{ site.texture.tagline }}</h2>
+	<a class="post-link" href="/">
+				<h3 class="elements" style="
+    margin: .1em 0;
+    transition: color .3s ease;
+    color: white;
+">Inicio</h3>
+			</a>
+       <a class="post-link" href="/SobreMi/">
+				<h3 class="elements" style="
+    margin: .1em 0;
+    transition: color .3s ease;
+    color: white;
+">Informacion</h3>
+			</a>
+	  <a> <h3 class="post-title"> </h3> </a>
+	<ul class="social">
+		{%- if site.texture.social_links.github -%}
+			<a href="https://github.com/{{ site.texture.social_links.github }}"><li><i class="icon-github-circled"></i></li></a>
+		{%- endif -%}
+		{%- if site.texture.social_links.linkedIn -%}
+			<a href="https://linkedin.com/{{ site.texture.social_links.linkedIn }}"><li><i class="icon-linkedin-squared"></i></li></a>
+		{%- endif -%}
+		{%- if site.texture.social_links.twitter -%}
+			<a href="https://twitter.com/{{ site.texture.social_links.twitter }}"><li><i class="icon-twitter-squared"></i></li></a>
+		{%- endif -%}
+	</ul>
+</div>

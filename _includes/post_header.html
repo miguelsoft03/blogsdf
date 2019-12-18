@@ -1,0 +1,19 @@
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+<div class="container">
+	<h1>{{ page.title }}</h1>
+	<h4 class="post-description">{{ page.description }}</h4>
+	<div class="post-date" style="margin-top:20px">
+		Published on {{ page.date | date: date_format }}
+	</div>
+		<a class="post-link" href="/">
+				<h3 class="post-title">Inicio</h3>
+			</a>
+        <a class="post-link" href="/SobreMi/">
+				<h3 class="post-title">Sobre Mi</h3>
+			</a>
+	<ul class="post-tags">
+		{%- for tag in page.categories -%}
+			<li>{{ tag }}</li>
+		{%- endfor -%}
+	</ul>
+</div>
