@@ -1,10 +1,10 @@
-﻿---
+---
 layout: post
-title:  "Procesos del Software - Modelos "
+title:  "Modelos del Software "
 date:   2019-12-02 21:13:50 +0530
 ---
 
-<h2>Modelo Cascada</h2>
+<h2>Cascada</h2>
   <p><b>Las fases están identificadas por separado:</b><br>
 -El análisis y definición de requerimientos<br>
 -Diseño del sistema y software.<br>
@@ -12,11 +12,11 @@ date:   2019-12-02 21:13:50 +0530
 -Integración y pruebas del sistema<br>
 -Operación y mantenimiento<br>
 El principal inconveniente del modelo de la cascada es la dificultad de acomodar el cambio después de que está en marcha el proceso. En principio, una fase tiene que ser completada antes de pasar a la siguiente fase.</p>
-<h2>Modelo Desarrollo Incremental</h2>
+<h2>Desarrollo Incremental</h2>
 <p>-El costo de atender las necesidades cambiantes de los clientes se reduce.<br>
 -Es más fácil obtener retroalimentación de los clientes en el trabajo de desarrollo que se ha hecho.<br>
 -Más rápida entrega y despliegue de software de utilidad para el cliente es posible.</p>
-<h2>Modelo Espiral</h2> 
+<h2>Espiral</h2> 
 <p>Es un modelo de ciclo de vida desarrollado por Barry Boehm en 1988.<br>
 Las actividades de este modelo son una espiral, cada bucle es una actividad.<br>
 Las actividades no están fijadas a prioridad, sino que las siguientes se eligen en función del análisis de riesgo, comenzando por el bucle interior.<br>
