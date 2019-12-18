@@ -1,6 +1,6 @@
-title: Tomas S.
-author: Tomas Sozoranga
-email: Tomassozoranga65@gmail.com
+title: Miguel M.
+author: Miguel Mendoza
+email: miguel3_2015@hotmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -15,18 +15,18 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Tomas Sozoranga
-  tagline: Blog academico
+  title: Miguel Mendoza
+  tagline: Estudiante Universitario
   date_format: "%b %-d, %Y"
-  style: black
+  style: blue
   showNav: false
   showPicker: false
 
   # generate social links in footer
   social_links:
-    facebook: villacreses.tommy2000
-    twitter: tomas.sv2000
-    github:  TOMAS2000-SV
+    facebook: miguel.mendozafigueroa
+    twitter: miguelsoft03
+    github:  miguelsoft03
     linkedIn:
     rss: rss
  
