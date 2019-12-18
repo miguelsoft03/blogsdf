@@ -1,6 +1,6 @@
-﻿---
+---
 layout: post
-title:  "Unidad 2 / Proceso del Software"
+title:  "Procesos del Software"
 date:   2019-12-01 21:13:50 +0530
 ---
 <p>Conjunto de actividades necesarias para transformar las ideas iniciales del usuario, que desea automatizar un determinado trabajo, en software.</p>
@@ -11,6 +11,3 @@ date:   2019-12-01 21:13:50 +0530
 4.-Desarrollo Rápido de Aplicaciones (DRA) <br>
 5.-Orientados a la reutilización<br>
 6.-Orientado a Objetos</p>
-
-
- <center><img src="https://ingsotfwarekarlacevallos.files.wordpress.com/2015/04/21.png"></center>
